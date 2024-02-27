@@ -13,6 +13,10 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div> 
+
+<!--Links para criar gifs: https://ezgif.com/maker-->
+
+
   <!--
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" <img 

@@ -47,7 +47,7 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
 </div>
 
 ![snake gif]
-(https://github.com/larytgs/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/larytgs/laryssatgs/blob/output/github-contribution-grid-snake.svg)
 
 
 

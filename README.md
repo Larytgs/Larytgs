@@ -46,8 +46,10 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
   <a href="https://www.facebook.com/profile.php?id=100005260008271" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
 
+   <br>
+  
 ![snake gif]
-(https://github.com/larytgs/laryssatgs/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Larytgs/Laryssatgs/blob/output/github-contribution-grid-snake.svg)
 
 
 

@@ -1,8 +1,8 @@
 # Laryssatgs
-🙋🏼‍♀️Sobre mim
+🙋🏼‍♀️Sobre mim 
 
 Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programação desde 2020, com ênfase em desenvolvimento web.
-Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript, para crescimento profissional e desenvolvimento de minhas habilidades.
+Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript, para crescimento profissional e desenvolvimento de minhas habilidades. 
 
 ## Linguagens de programação
 
@@ -12,10 +12,6 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div> 
-
-<!--Links para criar gifs: https://ezgif.com/maker-->
-
 
   <!--
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -23,6 +19,7 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
   <img align="center" alt="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">     
   -->
+  
    <br>
   
   ## Ferramentas e estruturas
@@ -51,7 +48,10 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
 </div>
 
    <br>
-  
+   
+<!--Links para criar gifs: https://ezgif.com/maker-->
+![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)
+
 ![snake gif](https://github.com/Larytgs/Larytgs/blob/output/github-contribution-grid-snake.svg)
 
 

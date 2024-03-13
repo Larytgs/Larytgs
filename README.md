@@ -51,9 +51,3 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
    
 <!--Links para criar gifs: https://ezgif.com/maker-->
 ![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)
-
-![snake gif](https://github.com/Larytgs/Larytgs/blob/output/github-contribution-grid-snake.svg)
-
-
-
-

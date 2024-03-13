@@ -12,7 +12,6 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
   <!--
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" <img 
@@ -27,6 +26,7 @@ Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente 
      <img align="center" alt="Gimp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
      <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+     <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
  <!--Link para pegar outros emojis de tecnologia https://devicon.dev/-->
  <!--Link para pegar bagdes de redes sociais https://dev.to/envoy_/150-badges-for-github-pnk-->   

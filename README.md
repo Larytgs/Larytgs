@@ -1,7 +1,7 @@
 # Laryssatgs
 🙋🏼‍♀️Sobre mim 
 
-Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programação desde 2020, com ênfase em desenvolvimento web.
+Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.
 Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript, para crescimento profissional e desenvolvimento de minhas habilidades. 
 
 ## Linguagens de programação

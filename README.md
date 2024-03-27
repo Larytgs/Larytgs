@@ -4,12 +4,12 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
+
 Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.
 Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript e MySQL, para crescimento profissional e desenvolvimento de minhas habilidades. 
 
 ## Linguagens de programação
 
- ###  Front-end:
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,7 +41,7 @@ const Larytgs = {
          PHP,
          csharp
       },
-      databases: ["mySQL", "SQLServer"]
+      databases: ["MySQL", "SQLServer"]
    },
 };
 ```

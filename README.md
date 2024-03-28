@@ -4,8 +4,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.
-Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript e MySQL, para crescimento profissional e desenvolvimento de minhas habilidades. 
+<p>Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.</p>
+<p>Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript e MySQL, para crescimento profissional e desenvolvimento de minhas habilidades.</p> 
 
 ## Linguagens de programação
 

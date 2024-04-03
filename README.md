@@ -4,10 +4,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p>Olá, me chamo Laryssa (ou Lary😜), tenho 25 anos e sou de Curitiba. Sou graduada em Análises e desenvolvimento de sistemas, estudo programaçao desde 2020, com ênfase em desenvolvimento web.</p>
-<p>Estou fazendo cursos complementares, sobre Python, PHP, HTML5, CSS3, atualmente sobre JavaScript e MySQL, para crescimento profissional e desenvolvimento de minhas habilidades.</p> 
+<p>Hello, my name is Laryssa (or Lary😜), I'm 25 years old and I'm from Curitiba. I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on web development.</p>
+<p>I'm taking complementary courses on Python, PHP, HTML5, CSS3, currently on JavaScript and MySQL, for professional growth and development of my skills.</p> 
 
-## Linguagens de programação
+### 🛠 Linguagens de programação
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -45,9 +45,8 @@ const Larytgs = {
 };
 ```
  
-   <br>
   
-  ## Ferramentas e estruturas
+  ### 🛠 Ferramentas e estruturas
   <div>
      <img align="center" alt="Gimp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
@@ -66,8 +65,8 @@ const Larytgs = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larytgs&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
     
-   <br>
-   
+
+### ❤ Vamos nos conectar 
 <div> 
   <a href="https://www.linkedin.com/in/laryssa-tortato-7612961a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/larytgs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

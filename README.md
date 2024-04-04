@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 <p>Hello, my name is Laryssa (or Lary😜), I'm 25 years old and I'm from Curitiba. I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on web development.</p>
 <p>I'm taking complementary courses on Python, PHP, HTML5, CSS3, currently on JavaScript and MySQL, for professional growth and development of my skills.</p> 

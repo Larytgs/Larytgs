@@ -40,7 +40,7 @@ const Larytgs = {
          PHP,
          csharp
       },
-      databases: ["MySQL", "SQLServer", "MySQL Workbench"]
+      databases: ["MySQL", "MySQL Workbench"]
    },
 };
 ```

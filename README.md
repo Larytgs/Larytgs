@@ -63,7 +63,7 @@ const Larytgs = {
 ``` -->
   <br>
 
-Meu site, com os meus Exercicios e Desafios: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)
+Meu site, com os meus cursos de: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)
 
   <br>
   

@@ -6,12 +6,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
-<p>Hello, my name is Laryssa (or Lary😜), I'm 25 years old and I'm from Curitiba. I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on web development.</p>
-<p>I'm taking complementary courses on Python, PHP, HTML5, CSS3, currently on JavaScript, for professional growth and development of my skills.</p> 
+<p>Hello, my name is Laryssa (or Lary😜), I'm 25 years old and I'm from Curitiba. I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on Front-end.</p>
+<p>I am taking additional courses over time, focused on HTML5, CSS3, currently JavaScript, for professional growth and development of my skills.</p> 
 
 <br>
 
-### 🛠 Linguagens de programação
+### 🛠 Linguagens estudadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 

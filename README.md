@@ -90,6 +90,6 @@ const Larytgs = {
 ![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)  ![snake gif](https://github.com/larytgs/larytgs/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img  src="https://github.com/Larytgs/contribution-cal-snake/blob/master/animation/snake.gif"
+  <img  src="https://github.com/Larytgs/animaçao/snake.gif"
        alt="snake" />
 </div>

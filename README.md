@@ -8,13 +8,13 @@
 
 <p>Hello, my name is Laryssa (or Lary😜), I'm 25 years old and I'm from Itapoa-SC I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on Front-end.</p>
 <p>I completed additional courses over time, focused on HTML5, CSS3 and JavaScript, for professional growth and development of my skills.</p> 
-<p>I am currently taking the Front-end Postgraduate course.</p>
+<p>I currently completed my Postgraduate Degree in Front-end, focusing on studies with React and Angular.</p>
 
 <br>
 
 ### 🛠 Linguagens estudadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql,angular&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 
 <!--<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 

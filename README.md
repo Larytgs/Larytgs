@@ -14,7 +14,7 @@
 
 ### 🛠 Linguagens estudadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,php,mysql&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 
 <!--<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 

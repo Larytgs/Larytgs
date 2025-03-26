@@ -16,18 +16,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,php,mysql&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 
- ### 🛠 Ferramentas e estruturas
- 
-  <div>
+### 🛠 Ferramentas e estruturas
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman)](https://skillicons.dev)
 <!--      <img align="center" alt="Gimp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
-   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman)](https://skillicons.dev)
-  </div>
- 
-  <br>
 
- ### [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://larytgs.com.br)
+### [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://larytgs.com.br)
 
 #### Meu site, com os meus cursos de: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)
 

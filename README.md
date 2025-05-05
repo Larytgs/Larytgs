@@ -22,7 +22,7 @@
 <!--      <img align="center" alt="Gimp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
 
-### [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://larytgs.com.br)
+### [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio2-ruddy.vercel.app/)
 
 #### Meu site, com os meus cursos de: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)
 

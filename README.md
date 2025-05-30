@@ -24,7 +24,7 @@
 
 ### [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio2-ruddy.vercel.app/)
 
-#### Meu site, com os meus cursos de: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)
+<!--#### Repositório dos meus Cursos de HTML5 CSS3 e JavaScript: [HTML5, CSS3 e JavaScript](https://larytgs.github.io/HTML-CSS/)-->
 
 #### Meu site de divulgação: [Agencia de sites TGS](https://larytgs.github.io/Agencia_de_sites_TGS/)
 

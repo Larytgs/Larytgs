@@ -2,7 +2,7 @@
 
 # Laryssatgs
 
-<img align='right' src="Working Work From Home GIF by Pudgy Penguins.gif" width="230">
+<img align='right' margin='5px' src="Working Work From Home GIF by Pudgy Penguins.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
@@ -35,7 +35,6 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=larytgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larytgs&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
 
 ### ❤ Vamos nos conectar
 

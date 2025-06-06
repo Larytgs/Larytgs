@@ -12,13 +12,17 @@
 
 <br>
 
-### 🛠 Linguagens e Frameworks align='right'
+<div align='right'>
+
+### 🛠 Linguagens e Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,php&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 
-### 🛠 Ferramentas e estruturas align='right'
+### 🛠 Ferramentas e estruturas
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,tailwindcss)](https://skillicons.dev)
+
+</div>
 
 <!--      <img align="center" alt="Gimp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->

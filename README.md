@@ -1,8 +1,15 @@
+<style>
+    #gif{
+    border-radius: 50%; margin-top: 20px;
+  }
+
+</style>
+
 <div align='center'>
 
 # Laryssatgs
 
-<div style="border-radius: 50%; margin-top: 20px;">
+<div id="gif">
   <img align='right' src="Working Work From Home GIF by Pudgy Penguins.gif" width="180">
 </div>
 

@@ -1,5 +1,4 @@
-<p align='right'>
-</p>
+<p align='right'></p>
 
 # Laryssatgs
 

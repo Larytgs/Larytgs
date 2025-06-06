@@ -1,5 +1,3 @@
-<html align='right'></html>
-
 # Laryssatgs
 
 <br>
@@ -14,11 +12,11 @@
 
 <br>
 
-### 🛠 Linguagens e Frameworks
+### 🛠 Linguagens e Frameworks align='right'
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,php&theme=dark)](https://skillicons.dev) <!--c# é cs; c++ é cpp; java-->
 
-### 🛠 Ferramentas e estruturas
+### 🛠 Ferramentas e estruturas align='right'
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,tailwindcss)](https://skillicons.dev)
 

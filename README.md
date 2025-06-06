@@ -12,7 +12,7 @@
 
 <br>
 
-<div align='right'>
+<div align='center'>
 
 ### 🛠 Linguagens e Frameworks
 

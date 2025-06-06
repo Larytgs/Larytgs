@@ -22,8 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,git,github,postman,tailwindcss)](https://skillicons.dev)
 
-</div>
-
 <!--      <img align="center" alt="Gimp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
      <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
 
@@ -52,6 +50,8 @@
    
 <!--Links para criar gifs: https://ezgif.com/maker-->
 ![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)
+
+</div>
 
 <!--![snake gif]<!--(https://github.com/larytgs/larytgs/blob/output/github-contribution-grid-snake.svg)-->
 

@@ -1,4 +1,8 @@
+<div align='center'>
+
 # Laryssatgs
+
+</div>
 
 <img align='right' src="Working Work From Home GIF by Pudgy Penguins.gif" width="220">
 

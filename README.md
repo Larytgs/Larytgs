@@ -9,7 +9,7 @@
 
 # Laryssatgs
 
-<div id="gif">
+<div id='gif'>
   <img align='right' src="Working Work From Home GIF by Pudgy Penguins.gif" width="180">
 </div>
 

@@ -7,9 +7,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 <div style="margin=20px">
-<p>Hello, my name is Laryssa (or Lary😜), I'm 26 years old and I'm from Itapoa-SC I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on Front-end.</p>
-<p>I completed additional courses over time, focused on HTML5, CSS3 and JavaScript, for professional growth and development of my skills.</p> 
-<p>I currently completed my Postgraduate Degree in Front-end, focusing on studies with React and API.</p>
+  <p>Hello, my name is Laryssa (or Lary😜), I'm 26 years old and I'm from Itapoa-SC I have a degree in Systems Analysis and Development, I have been studying programming since 2020, with an emphasis on Front-end.</p>
+  <p>I completed additional courses over time, focused on HTML5, CSS3 and JavaScript, for professional growth and development of my skills.</p> 
+  <p>I currently completed my Postgraduate Degree in Front-end, focusing on studies with React and API.</p>
 </div>
 
 <br>

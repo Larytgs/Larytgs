@@ -1,4 +1,4 @@
-<body align='right'></body>
+<div align='right'></div>
 
 # Laryssatgs
 

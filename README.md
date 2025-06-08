@@ -50,13 +50,15 @@
 
    <br>
    
+</div>
+
+<div>
 <!--Links para criar gifs: https://ezgif.com/maker-->
 ![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)
-
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larytgs/Larytgs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larytgs/Larytgs/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Larytgs/Larytgs/output/github-contribution-grid-snake.svg">
 </picture>
+</div>

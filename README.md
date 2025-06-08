@@ -55,4 +55,4 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<Larytgs>/<Larytgs>/blob/output/github-contribution-grid-snake2.svg)

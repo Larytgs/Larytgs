@@ -57,4 +57,4 @@
 
 <!-- ![snake gif](https://github.com/larytgs/larytgs/blob/output/github-contribution-grid-snake.svg) -->
 
-![Snake animation](https://raw.githubusercontent.com/Larytgs/Larytgs/main/animação/snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Larytgs/Larytgs/main/animacao/snake.gif)

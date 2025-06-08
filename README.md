@@ -51,11 +51,11 @@
    <br>
    
 <!--Links para criar gifs: https://ezgif.com/maker-->
-![ezgif com-animated-gif-maker](https://github.com/Larytgs/Larytgs/assets/149098968/d2c34962-9f50-4db9-bb38-061f28d7d84b)
+![ezgif com-animated-gif-maker](https://raw.githubusercontent.com/Larytgs/Larytgs/main/animacao/snake.gif)
 
 </div>
 
-<!--![snake gif]<!--(https://github.com/larytgs/larytgs/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif]<!--(https://github.com/larytgs/larytgs/blob/output/github-contribution-grid-snake.svg)
 
 <!--<div align="center">
   <img  src="https://github.com/Larytgs//Larytgs/animaçao/snake.gif"

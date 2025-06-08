@@ -55,10 +55,6 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
-![snake animation](https://github.com/<Larytgs>/<Larytgs>/blob/output/github-contribution-grid-snake2.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larytgs/Larytgs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larytgs/Larytgs/output/github-contribution-grid-snake.svg">

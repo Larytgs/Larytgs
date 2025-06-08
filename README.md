@@ -51,7 +51,7 @@
    <br>
    
 <!--Links para criar gifs: https://ezgif.com/maker-->
-![ezgif com-animated-gif-maker](https://raw.githubusercontent.com/Larytgs/Larytgs/main/animacao/snake.gif)
+![gif de cobra](https://raw.githubusercontent.com/larytgs/larytgs/output/github-contribution-grid-snake.svg)
 
 </div>
 

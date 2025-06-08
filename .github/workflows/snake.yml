@@ -16,5 +16,5 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
           color_snake: "#00FF00"
-          color_dots: "#000000,#00FF00"
+          color: ["#000000", "#00FF00"]
           commit_branch: output

@@ -1,0 +1,19 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite rodar manualmente no GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: larytgs
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+          color_snake: "#00FF00" # cor da cobra: verde
+          color_dots: "#000000,#00FF00" # fundo preto, pontos verdes
